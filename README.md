@@ -1,1 +1,1 @@
-# ERC20-Truffle
+# ERC20-Token-Contract
